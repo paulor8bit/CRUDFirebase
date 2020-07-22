@@ -11,7 +11,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * [Vue.js](https://vuejs.org/)
 * [Vue Router](https://router.vuejs.org/)
 * [VS Code](https://code.visualstudio.com/)
-* [Firebase]https://firebase.google.com/)
+* [Firebase](https://firebase.google.com/)
 * [Bootstrap](https://getbootstrap.com/)
 
 
