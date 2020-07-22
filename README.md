@@ -29,7 +29,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :video\_game: Explore
 
-Você pode a aplicação aqui:
+Você pode verificar a aplicação aqui:
 
 * [Teste Front-end E3](http://testefrontende3-pauloricardo.surge.sh/)
 
