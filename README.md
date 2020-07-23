@@ -23,7 +23,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - Renomeie o arquivo `.env.local.example` para `.env.local`;
 - Crie uma conta no [Firebase](https://firebase.google.com/) (basta ter uma conta do Google);
 - No console, adicione um novo projeto e dê o nome que preferir;
-- Crie dentro do projeto um usuario para adcionar em env.local.
+- Crie dentro do projeto do firebase um usuario para adcionar em env.local.
 - Copie as credenciais do projeto para o ambiente Web e coloque-as em seus devidos locais dentro do arquivo `.env.local`;
 - Ative o realtime database dentro do console do Firebase;
 - Execute `npm run serve` para subir um servidor local para desenvolvimento com hot reload ativado.
