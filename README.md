@@ -1,8 +1,5 @@
 <h1 align="center">
 </h1><a href="https://www.linkedin.com/in/paulor8bit//"><img alt="Made By" src="https://img.shields.io/static/v1?label=Made%20By&amp;message=paulo%20ricardo&amp;color=orange&amp;style=for-the-badge"> </a><img alt="Languages" src="https://img.shields.io/github/languages/count/paulor8bit/testeFronend3E?style=for-the-badge"><img alt="Top Language" src="https://img.shields.io/github/languages/top/paulor8bit/testeFronend3E?style=for-the-badge"><img alt="Repo Size" src="https://img.shields.io/github/repo-size/paulor8bit/testeFronend3E?style=for-the-badge"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/paulor8bit/testeFronend3E?style=for-the-badge">
-<h4 align="center">Aplicação de cadastros de ramais feito para o teste front-end E3 Engenharia  .
-Prosposta do desafio: Desenvolver uma página utilizando Vue.js com formulário com validações reativas para consumo de uma API. Utilizar uma ferramenta de pré compilação e um framework de componentes de interface.
-</h4>
 
 ## :rocket: Tecnologias
 
