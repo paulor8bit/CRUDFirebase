@@ -18,7 +18,7 @@
     "highlightjs": "9.10.0",
     "liquor-tree": "0.2.32",
     "lodash.groupby": "^4.6.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "portal-vue": "^2.1.7",
     "vue": "^2.6.11",
     "vue-gravatar": "1.2.1",
