@@ -11,6 +11,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * [Firebase](https://firebase.google.com/)
 * [Bootstrap](https://getbootstrap.com/)
 
+<img width="1696" height="586" alt="image" src="https://github.com/user-attachments/assets/3888f80f-d653-45af-b79b-56061be354d4" />
 
 
 ### Rodando o projeto
